@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoListView</string>
+    <string name="keyword">Enter an artist</string>
+    <string name="error">" Enter an artist"</string>
+</resources>
